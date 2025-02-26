@@ -2,6 +2,6 @@
 
 By - Sanskar Chouhan
 
-This is my Personal Portfolio from where all of my projects and cerfications can be accessed.
+This is my Personal Portfolio for my projects and cerfications.
 
 live demonstration - https://s-unny2001.github.io/Sanskar_Chouhan_Portfolio/
